@@ -4,6 +4,10 @@ h1 {
 
 .container {
     display: flex;
+    flex-wrap: wrap;
+    border: 1px;
+    border-color: blue;
+    border-style: solid;
 }
 
 .grid-box {
