@@ -9,3 +9,7 @@ function makeGrid() {
 };
 
 makeGrid();
+
+document.querySelector('.grid-box').addEventListener('mouseover', function() {
+    document.querySelector('.grid-box').style.backgroundColor= "green"
+});

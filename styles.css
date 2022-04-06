@@ -6,7 +6,7 @@ h1 {
     display: flex;
     flex-wrap: wrap;
     border: 1px;
-    border-color: blue;
+    border-color: black;
     border-style: solid;
 }
 
