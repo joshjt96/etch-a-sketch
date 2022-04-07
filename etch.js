@@ -12,9 +12,13 @@ function makeGrid() {
 };
 
 
-for (let i = 0; i < 16; i++) {
+for (let i = 0; i < 32; i++) {
     makeGrid();
 };
+
+// const btn = document.createElement('button');
+// btn.textContent('Reset');
+// container.append(btn);
 
 // document.querySelector('.grid-box').addEventListener('mouseover', function() {
 //     document.querySelector('.grid-box').style.backgroundColor= "grey"
